@@ -1,0 +1,39 @@
+[
+  {
+    "prix":"45.75",
+    "description":"Il est rock! voici le nain de jardin accompagné de sa Harley",
+    "marque":"Nain Bikeur",
+    "image":"assets/img/nain-rockeur.png"
+  },
+  {
+    "prix":"29.95",
+    "description":"Besoin de magie? Voici un nain Mage!",
+    "marque":"Nain Mage",
+    "image":"assets/img/nain-sage.png"
+  },
+  {
+    "prix":"20.00",
+    "description":"Adepte du bronzage, voici le nain de plage",
+    "marque":"Nain Plage",
+    "image":"assets/img/nain-plage.png"
+  },
+  {
+    "prix":"26.89",
+    "description":"Envie d'une grillade? Voici le nain barbecue",
+    "marque":"Nain Bbq",
+    "image":"assets/img/nain-barbecue.png"
+  },
+  {
+    "prix":"20.09",
+    "description":"Fan de la série Game of throne? Voici le nain en version Game of Gnome",
+    "qte":"15",
+    "marque":"Nain Game of Gnome",
+    "image":"assets/img/nain-badass.png"
+  },
+  {
+    "prix":"29.95",
+    "description":"Une peu stressé? Il vous faut le nain zen!",
+    "marque":"Nain zen",
+    "image":"assets/img/nain-zen.png"
+  }
+]
